@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE provider>
+<provider version="1.0" id="demo">
+    <name>DEMO</name>
+    <description>DEMO account provider</description>
+    <icon>image://theme/graphic-service-jolla</icon>
+</provider>

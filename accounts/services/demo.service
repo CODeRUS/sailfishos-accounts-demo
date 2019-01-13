@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<service id="demo">
+    <type>sync</type>
+    <name>DEMO account</name>
+    <icon>image://theme/icon-m-service-jolla</icon>
+    <provider>demo</provider>
+
+    <template>
+        <group name="auth">
+            <setting name="method">password</setting>
+            <setting name="mechanism">password</setting>
+        </group>
+    </template>
+</service>
